@@ -3,9 +3,9 @@ title: "Python for Physicists"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-1
-venue: "RUB"
+venue: "Ruhr University Bochum"
 date: 2023-10-4
-location: "City, Country"
+location: "Bochum, Germany"
 ---
 
-WS2024
+WS2024. Undergraduate course on basic python and its use for scientific applications.
