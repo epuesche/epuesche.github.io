@@ -11,54 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D, Physics, Carnegie Mellon University, 2010
+* M.S., Physics, Carnegie Mellon Unversity, 2007
+* B.S., Physics, Binghamton University, 2005
 
-Work experience
+Current and Previous Positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2023.08 - present: Permanent staff scientist, Ruhr University Bochum, Germany
+* 2020.04 - 2023.07: Permanent staff scientist, Deutsches Elektronen-Synchrotron (DESY), Germany
+* 2017.03 - 2022.12: Leader of Helmholtz Young Investigator Group, based at Deutsches Elektronen-Synchrotron (DESY), Germany
+* 2015.03 - 2017.02: Marie Curie Postdoctoral Fellow, University College Dublin, Ireland
+* 2013.10 - 2015.02: Irish Research Council Postdoctoral Fellow, University College Dublin, Ireland
+* 2010.10 - 2013.10: Postdoctoral Research Associate, University of Massachusetts, Amherst, USA
