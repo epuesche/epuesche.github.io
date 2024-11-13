@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ======
-I'm a staff scientist in the Multimessenger Astronomy Group at Ruhr University Bochum. I specialize in gamma-ray astronomy. Currently, I'm a member of the VERITAS collaboration and the CTAO Consortium. Starting in November 2024, I'll be leading the project Dark100, funded by an ERC consolidator grant. See below for more details about Dark100.
+I'm a staff scientist in the Multimessenger Astronomy Group at Ruhr University Bochum. I specialize in gamma-ray astronomy. Currently, I'm a member of the VERITAS collaboration and the CTAO Consortium. I am also leading the project Dark100, funded by an ERC consolidator grant. See below for more details about Dark100.
 
 
 Dark100
