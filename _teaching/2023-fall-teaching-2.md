@@ -8,4 +8,4 @@ date: 2023-10-4
 location: "Bochum, Germany"
 ---
 
-WS2024. Undergraduate laboratory on photoelectric effect.
+WS2023. Undergraduate laboratory on photoelectric effect.
