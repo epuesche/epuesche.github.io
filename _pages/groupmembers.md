@@ -4,11 +4,9 @@ permalink: /groupmembers/
 author_profile: true
 ---
 
-**Postdocs**
+**Sruthi Ravikularaman**: postdoc on Dark100
 
-Sruthi Ravikularaman
+**Yuriy Popovych**: postdoc on Dark100
 
-Yuriy Popovych
-
-Nikolas Korzoun
+**Nikolas Korzoun**: postdoc on Dark100
 
