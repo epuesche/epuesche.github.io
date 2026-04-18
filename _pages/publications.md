@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+**"Combined dark matter search towards dwarf spheroidal galaxies with Fermi-LAT, HAWC, H.E.S.S., MAGIC, and VERITAS"**, E. Pueschel and others with the Fermi-LAT, HAWC, H.E.S.S., MAGIC, and VERITAS collaborations, Journal of Cosmology and Astroparticle Physics, 03: 035 (2026); arXiv:2508.20229.
+
+**"Early Detection of Multiwavelength Blazar Variability"**, H. Stolte, J. Sinapius, I. Sadeh, E. Pueschel, M. Weidlich and D. Berge, The Astrophysical Journal, 980:141 (2025); arXiv:2411.10140.
+
+**"An indirect search for dark matter with a combined analysis of dwarf spheroidal galaxies from VERITAS"**, C. McGrath and D. Tak with the VERITAS collaboration, Physical Review D, 110:063034 (2024); arXiv:2407.16518.
+
 **"Search for Ultraheavy Dark Matter from Observations of Dwarf Spheroidal Galaxies with VERITAS"**, D. Tak and E. Pueschel with the VERITAS collaboration and N. Rodd, The Astrophysical Journal, 945:101 (2023); arXiv:2302.08784.
 
 **"Current and future gamma-ray searches for dark-matter annihilation beyond the unitarity
