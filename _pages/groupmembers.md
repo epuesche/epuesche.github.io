@@ -11,3 +11,5 @@ author_profile: true
 
 **Nikolas Korzoun**: postdoc on Dark100
 
+**Elise Paillol**: PhD student
+
